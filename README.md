@@ -2,5 +2,3 @@
 
 Perfect for keeping track of daily goals and improving productivity.
 
-🔗 Try it out and manage your tasks effortlessly!
-
